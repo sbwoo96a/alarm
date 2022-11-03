@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Alarm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_alarm_fragment">Hello alarm fragment</string>
+    <string name="hello_ranking_fragment">Hello ranking fragment</string>
+    <string name="hello_stats_fragment">Hello stats fragment</string>
+    <string name="hello_setting_fragment">Hello setting fragment</string>
+
+    <string name="icon_title_alarm">알람</string>통계 설정
+    <string name="icon_title_ranking">순위</string>
+    <string name="icon_title_stats">통계</string>
+    <string name="icon_title_setting">설정</string>
 </resources>

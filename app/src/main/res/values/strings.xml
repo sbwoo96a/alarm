@@ -10,4 +10,18 @@
     <string name="icon_title_ranking">순위</string>
     <string name="icon_title_stats">통계</string>
     <string name="icon_title_setting">설정</string>
+
+    <string name="sun">일</string>
+    <string name="mon">월</string>
+    <string name="tue">화</string>
+    <string name="wed">수</string>
+    <string name="thu">목</string>
+    <string name="fri">금</string>
+    <string name="sat">토</string>
+
+    <string name="alarm_sound">알람음</string>
+    <string name="alarm_empty">알람 없음</string>
+
+    <string name="cancel">취소</string>
+    <string name="check">확인</string>
 </resources>
